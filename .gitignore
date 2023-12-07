@@ -1,0 +1,12 @@
+
+*.jpeg
+chest_xray/chest_xray/val/NORMAL/.DS_Store
+chest_xray/chest_xray/.DS_Store
+*.DS_Store
+chest_xray/__MACOSX/chest_xray/train/._PNEUMONIA
+chest_xray/__MACOSX/chest_xray/train/._NORMAL
+chest_xray/__MACOSX/chest_xray/test/._PNEUMONIA
+chest_xray/__MACOSX/chest_xray/test/._NORMAL
+chest_xray/__MACOSX/chest_xray/._train
+chest_xray/__MACOSX/chest_xray/._test
+chest_xray/__MACOSX/._chest_xray
